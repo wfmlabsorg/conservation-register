@@ -1,0 +1,34 @@
+{
+ "amendments": [],
+ "backing": [
+  {
+   "kind": "edgar-filing",
+   "locator": "0000000000-00-000000"
+  }
+ ],
+ "claim": "TEST RECORD — round-trip verification of the publisher pipeline; carries no intelligence content.",
+ "cohort": "prospective",
+ "data": [
+  {
+   "kind": "edgar-filing",
+   "license": "public-domain",
+   "locator": "0000000000-00-000000",
+   "retrievedAt": "2026-07-15"
+  }
+ ],
+ "horizonDate": "2026-12-31",
+ "id": "CL-0000-TEST",
+ "qualifier": {
+  "probability": 0.5,
+  "scope": "TEST record; deleted before any real registration",
+  "tier": "WATCH"
+ },
+ "rebuttal": {
+  "bestCounter": "TEST",
+  "changesOurMind": "TEST — this record is removed by the same script that created it."
+ },
+ "referee": "none — test artifact",
+ "status": "OPEN",
+ "type": "claim-grade",
+ "warrant": "TEST — exercises the six-slot structural floor only."
+}
