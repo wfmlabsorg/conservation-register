@@ -1,0 +1,15 @@
+{
+ "generatedFrom": "04cacbada8955327e6b634c887e714f8263b4200",
+ "prospective": {
+  "OPEN": 0,
+  "HIT": 0,
+  "MISS": 0
+ },
+ "retrospective": {
+  "OPEN": 0,
+  "HIT": 0,
+  "MISS": 0
+ },
+ "wagers": 0,
+ "records": []
+}
