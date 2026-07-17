@@ -1,7 +1,7 @@
 {
- "generatedFrom": "04cacbada8955327e6b634c887e714f8263b4200",
+ "generatedFrom": "147b56a0aa0e6aad986fd0f7df5c20fe83a9e9bc",
  "prospective": {
-  "OPEN": 0,
+  "OPEN": 1,
   "HIT": 0,
   "MISS": 0
  },
@@ -10,6 +10,17 @@
   "HIT": 0,
   "MISS": 0
  },
- "wagers": 0,
- "records": []
+ "wagers": 1,
+ "records": [
+  {
+   "id": "CL-2026-0001",
+   "cohort": "wager",
+   "status": "OPEN"
+  },
+  {
+   "id": "FC-2026-0001",
+   "cohort": "prospective",
+   "status": "OPEN"
+  }
+ ]
 }
