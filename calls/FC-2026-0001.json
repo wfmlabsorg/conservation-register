@@ -1,0 +1,54 @@
+{
+ "amendments": [],
+ "backing": [
+  {
+   "kind": "doctrine-doc",
+   "locator": "docs/retrodiction-phase0.md §2 Findings 1–2 (filing-verified FY2021–25 series)"
+  },
+  {
+   "kind": "doctrine-doc",
+   "locator": "docs/wfm-intelligence-master-spec-v2.md Part I (conservation thesis)"
+  },
+  {
+   "kind": "benchmark",
+   "locator": "Epoch AI trend data — no driver stall, so change arrives through diffusion, which is slow"
+  }
+ ],
+ "claim": "The M&A-clean pure-play CX aggregate (TTEC+TASK+IBEX) FY2026 headcount will remain within ±5% of its FY2022 baseline (141,468–156,331 vs. 148,887).",
+ "cohort": "prospective",
+ "data": [
+  {
+   "kind": "edgar-filing",
+   "license": "public-domain",
+   "locator": "0001104659-26-020532",
+   "retrievedAt": "2026-07-15"
+  },
+  {
+   "kind": "edgar-filing",
+   "license": "public-domain",
+   "locator": "0001829864-26-000012",
+   "retrievedAt": "2026-07-15"
+  },
+  {
+   "kind": "edgar-filing",
+   "license": "public-domain",
+   "locator": "0001720420-25-000027",
+   "retrievedAt": "2026-07-15"
+  }
+ ],
+ "horizonDate": "2027-03-31",
+ "id": "FC-2026-0001",
+ "qualifier": {
+  "probability": 0.75,
+  "scope": "Total headcount only; boundary events excluded by the event-table rule.",
+  "tier": "HIGH"
+ },
+ "rebuttal": {
+  "bestCounter": "An FY2026 demand shock or one supplier's collapse (TTEC strategic review) could break ±5% without any AI cause.",
+  "changesOurMind": "Aggregate breach PLUS class-neutral posting mix PLUS control-arm co-movement is macro (this call misses, thesis unaffected); breach WITH frontline-biased mix shift in treatment only is deflection arriving — the thesis tracker moves to 'strained'."
+ },
+ "referee": "FY2026 10-Ks (TTEC, TASK by ~Mar 2027; IBEX Sep 2026 for FY2026)",
+ "status": "OPEN",
+ "type": "forward-call",
+ "warrant": "Three years of system-level flatness with divergence absorbed by redistribution between suppliers; no capability-side discontinuity yet visible in deployment proxies large enough to break the pattern within one fiscal year."
+}
