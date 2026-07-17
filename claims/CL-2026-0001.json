@@ -1,0 +1,40 @@
+{
+ "amendments": [],
+ "backing": [
+  {
+   "kind": "paper",
+   "locator": "MAP-Elites paper v8"
+  },
+  {
+   "kind": "paper",
+   "locator": "operations-research literature on supervisory span under interruption"
+  },
+  {
+   "kind": "paper",
+   "locator": "Erlang-O whitepaper (independently validated)"
+  }
+ ],
+ "claim": "Realized human-supervisor-to-concurrent-AI-case ratios in production CX deployments will center near N*≈5 (range 3–8), not the ~20 vendors assume, under realistic intervention rates.",
+ "cohort": "wager",
+ "data": [
+  {
+   "kind": "paper",
+   "license": "own-work",
+   "locator": "MAP-Elites paper v8 derivation — parameter assumptions (α, m₀, intervention rate) explicitly marked ASSUMED, not calibrated"
+  }
+ ],
+ "horizonDate": null,
+ "id": "CL-2026-0001",
+ "qualifier": {
+  "scope": "WAGER, not a graded forecast — no public referee exists (deployment ratios are private). Confidence in the mechanism HIGH; in the specific number, MIXED. Excluded from all calibration curves.",
+  "tier": "MIXED"
+ },
+ "rebuttal": {
+  "bestCounter": "Vendors may be right where intervention rates are driven near zero by narrow task scoping.",
+  "changesOurMind": "≥3 documented production deployments sustaining >12 concurrent cases per human supervisor at stable quality — standing public disconfirmation bounty (terms in methodology/nstar-bounty-terms.md)."
+ },
+ "referee": "none available — deployment ratios are private; the standing public disconfirmation bounty is the resolution mechanism",
+ "status": "OPEN",
+ "type": "claim-grade",
+ "warrant": "Queueing behavior of interrupt-driven supervision: at realistic intervention rates and switching costs, supervisor attention saturates far below vendor marketing ratios."
+}
